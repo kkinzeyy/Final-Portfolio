@@ -1,0 +1,44 @@
+body{
+    background-color: darkgray;
+}
+.container-fluid {
+    display: block;
+    background-color: gray;
+    color: white;
+    margin: auto;
+    padding: 20px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  #portCont {
+    text-align: center;
+    float: center;
+    background-color: gray;
+    margin: auto;
+    padding: 20px;
+  }
+  #portCont2 {
+    text-align: center;
+    float: center;
+    background-color: gray;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  #bio {
+    text-align: left;
+    float: center;
+    background-color: gray;
+    padding: 20px;
+    margin: auto;
+  }
+  
+  #images {
+    align-content: left;
+  }
+  #carcompanion{
+    transform: rotate(90deg);
+    height: 200px;
+    width: 200px;
+  }
